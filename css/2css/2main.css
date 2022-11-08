@@ -1,0 +1,48 @@
+.telefon{
+    width: 500px;
+    height: 600px;
+    background-image: url(../ar_hardware__fklaa9gj5diu_large.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.fon{
+    width: 263px;
+    height: 570px;
+    background-color: brown;
+    transform: translate(19px, 16px);
+    border-radius: 30px;
+}
+.kamera{
+    width: 110px;
+    height: 35px;
+    background-color: black;
+    margin: 0 auto;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.foto{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 100%;
+    transform: translate(10px, 10px);
+}
+.bulim{
+    width: 263;
+    height: 110px;
+    background-color: rgb(191, 51, 51);
+    border-radius: 20px;
+    /* transform: translate(0px,5px); */
+}
+.d-flex{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.salom{
+    margin-left: 70px;
+    position: absolute;
+}

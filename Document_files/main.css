@@ -1,0 +1,290 @@
+.telefon{
+    width: 500px;
+    height: 600px;
+    background-image: url(../img/ar_hardware__fklaa9gj5diu_large.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.axmoq{
+    transform: translate(100px);
+}
+.past{
+    overflow: scroll;
+    height: 450px;
+}
+.fon{
+    width: 263px;
+    height: 570px;
+    background-color: brown;
+    transform: translate(19px, 16px);
+    border-radius: 30px;
+}
+.kamera{
+    width: 110px;
+    height: 35px;
+    background-color: black;
+    margin: 0 auto;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.foto{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 100%;
+    transform: translate(10px, 10px);
+}
+.bulim{
+    width: 263;
+    height: 110px;
+    background-color: rgb(191, 51, 51);
+    border-radius: 20px;
+    /* transform: translate(0px,5px); */
+}
+.d-flex{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.salom{
+    margin-left: 70px;
+    position: absolute;
+}
+.music1{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 10px);
+    border-radius: 20px;
+
+}
+.music1 img{
+    transform: translate(10px, 7px);
+}
+
+.yonga{
+    display: flex;
+}
+.sur{
+    transform: translate(100px, 14px);
+    display: flex;
+}
+.yurish{
+    position: absolute;
+    width: 80px;
+    transform: translate(60px, 19px);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.music2{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 20px);
+    border-radius: 20px;
+
+}
+.music2 img{
+    transform: translate(10px, 7px);
+}
+
+.music3{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 30px);
+    border-radius: 20px;
+
+}
+.music3 img{
+    transform: translate(10px, 7px);
+}
+.music7{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 70px);
+    border-radius: 20px;
+
+}
+.rasm1{
+    transform: translate(100px);
+}
+.music8{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 80px);
+    border-radius: 20px;
+
+}
+.music8 img{
+    transform: translate(4px, -0px);
+}
+.music9{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 90px);
+    border-radius: 20px;
+
+}
+.music9 img{
+    transform: translate(4px, -0px);
+}
+.music10{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 30px);
+    border-radius: 20px;
+
+}
+.music10 img{
+    transform: translate(4px, -0px);
+}
+.music11{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 40px);
+    border-radius: 20px;
+
+}
+.music11 img{
+    transform: translate(4px, -0px);
+}
+.music7 img{
+    transform: translate(4px, -0px);
+}
+.sr i{
+    font-size: 30px;
+    color: white;
+}
+.sur i{
+    color: white;
+    font-size: 30px;
+    margin-left: 4px;
+}
+.axmoq{
+    transform: translate(100px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.helo{
+    transform: translate(100px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.we{
+    transform: translate(100px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s1{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s2{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s3{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s4{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s5{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s6{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s7{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.s8{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.as{
+    transform: translate(185px, 45px);
+    position: absolute;
+    color: white;
+    font-size: 10px;
+}
+.music4{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 40px);
+    border-radius: 20px;
+
+}
+.music4 img{
+    transform: translate(2px, 1px);
+}
+
+.music5{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 50px);
+    border-radius: 20px;
+
+}
+.music5 img{
+    transform: translate(2px, 1px);
+}
+
+.music6{
+    width: 263px;
+    height: 60px;
+    background-color: rgb(191, 51, 51);
+    transform: translate(0px, 60px);
+    border-radius: 20px;
+
+}
+.music6 img{
+    transform: translate(2px, 1px);
+}
+
+.sr{
+    margin-left: 85px;
+    padding-top: 15px;
+}
+.past{
+    overflow-x: hidden;
+
+}
+::-webkit-scrollbar{
+    width: 0px;
+}

@@ -1,0 +1,99 @@
+
+axmoq = document.querySelector(".axmoq")
+helo = document.querySelector(".helo")
+we = document.querySelector(".we")
+
+s1 = document.querySelector(".s1")
+s2 = document.querySelector(".s2")
+s3 = document.querySelector(".s3")
+s4 = document.querySelector(".s4")
+s5 = document.querySelector(".s5")
+s6 = document.querySelector(".s6")
+s7 = document.querySelector(".s7")
+s8 = document.querySelector(".s8")
+asss = document.querySelector(".asss")
+a = document.querySelector(".qqq")
+hi = document.querySelector(".lo")
+salom1 = document.querySelector(".salom1")
+function qw() {
+    a.style.width = 100+"px";
+    a.style.height = 100+"px";
+    a.style.backgroundColor = "blue";
+    axmoq.style.color = "red";
+    a.apendchild(a)
+}
+function w10() {
+    helo.style.color = "red";
+}
+function w1() {
+    we.style.color = "red";
+}
+function w2() {
+    s1.style.color = "red";
+}
+function w3() {
+    s2.style.color = "red";
+}
+function w4() {
+    s3.style.color = "red";
+}
+function w5() {
+    s4.style.color = "red";
+}
+function w6() {
+    s5.style.color = "red";
+}
+function w7() {
+    s6.style.color = "red";
+}
+function w8() {
+    s7.style.color = "red";
+}
+function w9() {
+    s8.style.color = "red";
+}
+function hhh() {
+    audio = document.createElement("audio")
+    audio.src = "salom.mp3"
+    audio.autoplay = "autoplay"
+    audio.controls = "controls"
+    asss.innerHTML = '<i class="bi bi-pause-circle" onclick="assa()"></i>'       
+
+}
+function assa() {
+    asss.innerHTML = '<i class="bi bi-play-circle" onclick="hhh()"></i>'  
+    audio.src = "" 
+   
+}
+function musi() {
+    audio1 = document.createElement("audio")
+    audio1.src = "lo.mp3"
+    audio1.autoplay = "autoplay"
+    audio1.controls = "controls"
+    hi.innerHTML = '<i class="bi bi-pause-circle" onclick="mus()"></i>'
+}
+function mus() {
+    hi.innerHTML = '<i class="bi bi-play-circle" onclick="musi()"></i>'  
+    audio1.src = "" 
+   
+}
+function salom1() {
+    audio1 = document.createElement("audio")
+    audio1.src = "lo.mp3"
+    audio1.autoplay = "autoplay"
+    audio1.controls = "controls"
+    salom1.innerHTML = '<i class="bi bi-pause-circle" onclick="qwer()"></i>'
+}
+function qwer() {
+    salom1.innerHTML = '<i class="bi bi-play-circle" onclick="salom1()"></i>'  
+    audio1.src = "" 
+   
+}
+
+
+
+
+function s() {
+    window.location.href = "index.html"
+}
+
